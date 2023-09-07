@@ -1,10 +1,17 @@
-- Hi, I’m @Bhargav007
-- I’m interested in ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- How to reach me ...
+{
+ {
+    steps
+    stage("Hi, I’m Kiran Naidu from Hyderabad"){
+ 
+}
+    step("I've 4 years of experience in DevOps Practices, Linux environment in the domains of Banking & Healthcare"){
 
-<!---
-Kirannaidu007/Kirannaidu007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+}
+
+    Step("Willing to learn new technologies also"){    
+
+}
+    step("Done the Microsoft Certified Azure Fundamentals and AWS Certified Solutions Architect certifications"){
+    }
+  }
+}    
